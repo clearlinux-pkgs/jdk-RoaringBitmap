@@ -1,6 +1,6 @@
 Name     : jdk-RoaringBitmap
 Version  : 0.5.11
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/roaringbitmap/RoaringBitmap/0.5.11/RoaringBitmap-0.5.11.jar
 Source0  : http://repo2.maven.org/maven2/org/roaringbitmap/RoaringBitmap/0.5.11/RoaringBitmap-0.5.11.jar
 Source1  : http://repo2.maven.org/maven2/org/roaringbitmap/RoaringBitmap/0.5.11/RoaringBitmap-0.5.11.pom
